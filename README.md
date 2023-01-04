@@ -4,9 +4,9 @@
 
 Full Stack Web Developer integrating a degree in Education to create applications that engage audiences, inspire creativity, and demonstrate precise attention to organization and detail. Completed a certificate from the Georgia Institute of Technology in full-stack development. Through this program I have harnessed skills in HTML, CSS, JavaScript, Node.js, React.js, Express.js, and SQL. Experienced team player and problem solver with a focus on mobile-first design, ready to chat about what I can do for you!
 
-- 🌍  I'm based in Atlanta, GA
+- 🌍  I'm based in Vandenberg Village, CA
 - ✉️  You can contact me [j.franks725@gmail.com](mailto:j.franks725@gmail.com)
-- 🧠  I'm learning Back end databases
+- 🧠  I'm learning AWS
 - 🤝  I'm open to collaborating on any fullstack projects
 
 ### Skills
